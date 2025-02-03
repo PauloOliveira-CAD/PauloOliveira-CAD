@@ -1,4 +1,4 @@
-## Olá, Tubo com Vocês!! Eu sou Paulo Oliveira 👋
+## Olá, Tudo com Vocês!! Eu sou Paulo Oliveira 👋
 
 <!--
 **PauloOliveira-CAD/PauloOliveira-CAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
