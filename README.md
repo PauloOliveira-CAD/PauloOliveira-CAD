@@ -43,8 +43,9 @@ Sou um desenvolvedor apaixonado por tecnologia e soluções criativas. Minha exp
 
 ## 📫 Como me encontrar
 
-- **LinkedIn**: [Seu Perfil](#)
+- **LinkedIn**: [linkedin.com/in/dev-paulooliveira(#)
 - **Email**: [programadorcad@gmail.com(#)
-- **Portfólio**: [Seu Portfólio](#)
+- **Portfólio**: [sites.google.com/view/programadorcad (#)
+- **WhatsApp**: [(19) 995139475 (Celular)](#)
 
 Estou sempre aberto a colaborar em novos projetos ou discutir ideias inovadoras. Vamos conversar? 😊
