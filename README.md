@@ -30,8 +30,11 @@ Sou um desenvolvedor apaixonado por tecnologia e soluções criativas. Minha exp
 
 ## Projetos em Destaque
 
-- 🛠️ **[Nome do Projeto CAD]**  
-  Um projeto que otimiza fluxos de trabalho CAD para engenheiros e arquitetos, utilizando AutoLISP e C#.
+- 🛠️ **[PACKpro]**  
+  Um projeto que otimiza fluxos de trabalho CAD para projetos de interiores, utilizando AutoLISP e C#.
+
+- 🛠️ **[3DPool]**  
+  Um projeto que otimiza fluxos de trabalho CAD para projetos de Piscinas e Churrasqueiras, utilizando AutoLISP
 
 - 🌐 **[Nome do Projeto Web]**  
   Site moderno e responsivo criado com HTML, CSS e JavaScript, com integração backend em Python.
@@ -41,7 +44,7 @@ Sou um desenvolvedor apaixonado por tecnologia e soluções criativas. Minha exp
 ## 📫 Como me encontrar
 
 - **LinkedIn**: [Seu Perfil](#)
-- **Email**: [Seu Email](#)
+- **Email**: [programadorcad@gmail.com(#)
 - **Portfólio**: [Seu Portfólio](#)
 
 Estou sempre aberto a colaborar em novos projetos ou discutir ideias inovadoras. Vamos conversar? 😊
