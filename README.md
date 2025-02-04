@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e soluções criativas. Minha experiência abrange desde a criação de sistemas CAD personalizados até o desenvolvimento de aplicações web modernas e funcionais. Adoro transformar ideias em códigos eficientes que entregam valor aos usuários.
+"Sou desenvolvedor web e programador de softwares CAD. Minha experiência abrange desde a criação de sistemas CAD personalizados até o desenvolvimento de aplicações web modernas e funcionais. Transformar ideias em softwares que contribuem para uma melhor gestão dos processos das empresas é a minha tarefa."
 
 ---
 
